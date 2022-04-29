@@ -14,6 +14,7 @@ async def start(client,message):
 	
 	__For movie,series,documentry enquiries visit our group using below 
         'мσνιє яєqυєѕт gяσυρ' button__
+	**For more use /help**
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [
